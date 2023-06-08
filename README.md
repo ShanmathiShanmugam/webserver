@@ -65,10 +65,12 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ### Server Output
-![Server Output](../img/serverop.jpg)
+![Screenshot (108)](https://github.com/ShanmathiShanmugam/webserver/assets/121243595/577e424a-6ed8-4129-8f86-889656d03f66)
+
 
 ### Client Output
-![Client Output](../img/clientop.jpg)
+![Screenshot 2023-06-08 114331](https://github.com/ShanmathiShanmugam/webserver/assets/121243595/318e9559-433d-4caa-8ef0-77903e4e7f1a)
+
 
 ## RESULT:
 The program is executed succesfully
